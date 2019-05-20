@@ -1,0 +1,5 @@
+html2text==2018.1.9
+requests
+readability-lxml>=0.7.1
+feedparser>=5.2.1
+lxml
